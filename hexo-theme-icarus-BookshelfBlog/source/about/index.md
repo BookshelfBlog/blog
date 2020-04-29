@@ -18,9 +18,9 @@ comments: false
 
 ->>>>>>>>>>>>>>>>>>>>
 个人信息：
-计算机科学与技术专业
+软件技术专业
 从事JAVA后端开发
-码畜一枚
+不断探索技能提升之路
 坚信代码改变世界
 
 <br>
@@ -33,25 +33,14 @@ comments: false
 + 在Icarus主题之上进行了部分修改。
 
 ***更新日志：***
---*2020.01.18：icarus3.0适配*
---*2019.11.17：增加深色主题开关*
---*2019.10.30：去图，精简卡片*
---*2019.10.22：改版部分显示，优化速度*
---*2019.10.16：文章列表加上评论数显示*
---*2019.10.13：改版评论*
---*2019.09.25：图片、资源接入CDN免费jsDelivr、文章加入置顶*
---*2019.09.19：开源[博客代码](https://github.com/removeif/hexo-theme-icarus-removeif)*
---*2019.09.19：修改布局，拉伸布局，更宽的展示*
---*2019.09.18：修改友链ui为一行三个，并适配移动端，暗黑模式文章增加评论链接，增加留言链接*
---*2019.09.14：增加[精简next主题](https://removeif.github.io/remove.io/)*
---*2019.09.14：利用中秋节放假，重做了首页的热门推荐、加个widget最新评论框、归档页加入文章贡献概览面板*
+--*2020.04.28：个人博客部署*
 
 <br>
 
 #### 本站推荐索引
 
 ---
-**博客主题相关**
+**原博主主题相关**
 + [github Issue 作为博客微型数据库的应用](https://removeif.github.io/theme/github-Issue-作为博客微型数据库的应用.html)
 + [github page网站cdn优化加速](https://removeif.github.io/theme/github-page网站cdn优化加速.html)
 + [博客源码分享](https://removeif.github.io/theme/博客源码分享.html)
@@ -61,7 +50,7 @@ comments: false
 + [安装、部分配置icarus主题中文版](https://removeif.github.io/theme/安装、部分配置icarus主题中文版.html)
 
 
-**技术知识点**
+**原博主技术知识点**
 + [Java并发知识点](https://removeif.github.io/java/basic/Java%E5%B9%B6%E5%8F%91%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9.html)
 <br>
 
@@ -76,8 +65,6 @@ comments: false
 + [中华人民共和国劳动法](https://removeif.github.io/law/中华人民共和国劳动法.html)
 <br>
 
-**其他**
-+ [网易云音乐歌单分享](https://removeif.github.io/music1/)
 
 <br>
 
@@ -85,20 +72,11 @@ comments: false
 **2020计划**
 
 ---
-2019.12.31
 >**2020-GOALS**              
->+ [ ] 跑两三场马拉松
+>+ [ ] 读至少两本专业书籍（jvm、SpringCloud···）
+>+ [ ] 学习技术（SpringCloud、vue、react···）
 
-**2019计划**
 
----
-2018.12.31/21:59:00->更新于2019.12.31
->**2019-GOALS**
->+ [x] 购买的专业书籍至少看完一遍（并发、重构、设计模式...）-> 95%
-> **额外：**
->+ [x] 追了很多剧
-> **总结：**
->+ 有优点有缺点，没坚持下来的还是太多，追了太多剧。以后多学习，多思考！
 
 
 <br>

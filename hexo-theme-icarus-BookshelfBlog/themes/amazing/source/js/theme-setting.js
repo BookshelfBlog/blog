@@ -1,4 +1,4 @@
-// author by removef
+// author by BookshelfBlog
 // https://BookshelfBlog.github.io/
 
 var isNight = localStorage.getExpire('night');
